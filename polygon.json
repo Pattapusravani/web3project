@@ -1,0 +1,367 @@
+{
+    "id": "ethereum",
+    "description": "Ethereum is a decentralized, open-source blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform. It is the second-largest cryptocurrency by market capitalization, after Bitcoin. Ethereum is the most actively used blockchain.",
+    "tags": [
+        "pos",
+        "smart contracts",
+        "ethereum ecosystem",
+        "layer 1",
+        "evm"
+    ],
+    "coin_details": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "logo": "logo/ethereum.png",
+        "max_supply": "∞"
+    },
+    "chain_details": [
+        {
+            "name": "Language",
+            "type": "Solidity"
+        },
+        {
+            "name": "Consensus",
+            "type": "Proof of stake"
+        },
+        {
+            "name": "Chain Layer",
+            "type": "L1"
+        },
+        {
+            "name": "Chain Type",
+            "type": "EVM"
+        }
+    ],
+    "official_links": {
+        "website": "https://ethereum.org/en/",
+        "whitepaper": "https://ethereum.org/en/whitepaper/",
+        "documentation": "https://ethereum.org/en/developers/docs/",
+        "forum": "https://ethereum-magicians.org/",
+        "github": "https://github.com/ethereum/go-ethereum"
+    },
+    "social_platforms": {
+        "discord": "https://discord.com/invite/ethereum-org",
+        "twitter": "https://twitter.com/ethereum",
+        "reddit": "https://reddit.com/r/ethereum",
+        "community": "https://ethereum.org/community/online",
+        "coinmarketcap_community": "https://coinmarketcap.com/community/profile/Ethereum/",
+        "twitter_hashtag": "https://twitter.com/hashtag/Ethereum"
+    },
+    "data_aggregator": [
+        {
+            "name": "CoinMarketCap",
+            "maxsupply":10000000000 ,
+            "totalsupply":10,000,000,000 
+
+            
+        },
+        {
+            "name": "CoinGecko",
+              "TotalSupply" :120169997,
+            "MaxSupply": ∞
+
+
+        },
+        {
+            "name": "DefiLlama",
+            "totalsupply":1.218,
+            "maxsupply":62.86,
+        },
+        {
+            "name": "DappRadar",
+             "totalsupply":120,170,002.45
+,
+            "maxsupply":"Not Applicable"
+
+        },
+        {
+            "name": "CryptoCompare",
+
+            "totalsupply":120,170,002.45,
+
+            "maxsupply":"Not Applicable"
+
+        },
+        {
+            "name": "TradingView",
+            "totalsupply":120.17,
+            "maxsupply":-,
+        
+        },
+        {
+            "name": "CoinDesk",
+            "url": "https://www.coindesk.com/price/ethereum/",
+            "totalsupply":48,790.91,
+             "maxsupply":-,
+        },
+        {
+            "name": "Investing",
+            "url": "4
+            "totalsupply":
+             "maxsupply":
+        },
+        {
+            "name": "MarketWatch",
+    
+            "totalsupply":7370674688,
+             "maxsupply":n/A,
+        },
+        {
+            "name": "Yahoo Finance",
+    
+            "totalsupply":7370674688,
+            "maxsupply":N/A
+        }
+    ],
+    "explorers": [
+        {
+            "name": "Etherscan",
+        
+             "totalsupply":2258.43,
+            "maxsupply":-,
+        },
+        {
+            "name": "Blockchair",
+        
+             "totalsupply":4010170.89,
+            "maxsupply":-,
+        },
+        {
+            "name": "Parsec",
+            "url": "https://parsec.fi/",
+            "maxsupply":-,
+        },
+        {
+            "name": "OKLink",
+            
+            "totalsupply":2.26b,
+            "maxsupply":30.36b,
+        },
+        {
+            "name": "Ethplorer",
+
+            "totalsupply":80,054 M,
+            "maxsupply":-,
+        },
+        {
+            "name": "TokenView",
+    
+            "totalsupply":47221614.65625
+
+,
+            "maxsupply":478,433.33765316
+
+,
+        },
+        {
+            "name": "3xpl",
+        
+             "totalsupply":2535.78,
+            "maxsupply":-,
+        },
+        {
+            "name": "BlockSec",
+            "url": "https://phalcon.blocksec.com/explorer"
+             "totalsupply":-,
+            "maxsupply":-,
+        },
+        {
+            "name": "OpenChain",
+            "url": "https://openchain.xyz/trace"
+             "totalsupply":-,
+            "maxsupply":-,
+        },
+        {
+            "name": "Tenderly",
+            "url": "https://dashboard.tenderly.co/explorer"
+             "totalsupply":-,
+            "maxsupply":-,
+        },
+        {
+            "name": "Dedaub",
+            "url": "https://app.dedaub.com/?network=ethereum",
+             "totalsupply":null,
+            "maxsupply":null,
+        }
+    ],
+    "bridges": [
+        {
+            "name": "Layer Zero",
+            "url": "https://layerzero.network/"
+             "totalsupply":107,
+            "maxsupply":15,
+        },
+        {
+            "name": "Axelar",
+            "url": "https://axelar.network/"
+             "totalsupply":,
+            "maxsupply":,
+        },
+        {
+            "name": "Hop Protocol",
+            "url": "https://hop.exchange/"
+             "totalsupply":,
+            "maxsupply":,
+        },
+        {
+            "name": "Connext",
+            "url": "https://connext.network/"
+             "totalsupply":,
+            "maxsupply":,
+        },
+        {
+            "name": "Wormhole",
+            "url": "https://wormhole.com/"
+             "totalsupply":,
+            "maxsupply":,
+        },
+        {
+            "name": "Stargate",
+            "url": "https://stargate.finance/"
+             "totalsupply":,
+            "maxsupply":,
+        }
+    ],
+    "bounty": [
+        {
+            "name": "Bug Bounty Program",
+            "url": "https://ethereum.org/en/bug-bounty/"
+             "totalsupply":,
+            "maxsupply":,
+        }
+    ],
+    "grants": [
+        {
+            "name": "Ethereum Foundation",
+            "url": "https://ethereum.org/en/community/grants/"
+             "totalsupply":,
+            "maxsupply":,
+        }
+    ],
+    "faucets": [
+        {
+            "name": "Alchemy",
+            "url": "https://goerlifaucet.com"
+             "totalsupply":,
+            "maxsupply":,
+        },
+        {
+            "name": "QuickNode",
+            "url": "https://faucet.quicknode.com/ethereum"
+             "totalsupply":,
+            "maxsupply":,
+        },
+        {
+            "name": "All That Node",
+            "url": "https://www.allthatnode.com/faucet/ethereum.dsrv"
+             "totalsupply":,
+            "maxsupply":,
+        },
+        {
+            "name": "Holesky PoW Faucet",
+            "url": "https://holesky-faucet.pk910.de/"
+             "totalsupply":,
+            "maxsupply":,
+        }
+    ],
+    "rpcs": [
+        {
+            "name": "Chainlist",
+            "url": "https://chainlist.org/chain/1"
+             "totalsupply":,
+            "maxsupply":,
+        }
+    ],
+    "wallets": [
+        {
+            "name": "Wallet Finder",
+            "url": "https://ethereum.org/wallets/find-wallet"
+             "totalsupply":,
+            "maxsupply":,
+        },
+        {
+            "name": "Metamask",
+            "url": "https://metamask.io/"
+             "totalsupply":,
+            "maxsupply":,
+        },
+        {
+            "name": "Safe",
+            "url": "https://safe.global/"
+             "totalsupply":,
+            "maxsupply":,
+        },
+        {
+            "name": "Rainbow",
+            "url": "https://rainbow.me/"
+             "totalsupply":,
+            "maxsupply":,
+        },
+        {
+            "name": "Coinbase Wallet",
+            "url": "https://www.coinbase.com/wallet"
+             "totalsupply":,
+            "maxsupply":,
+        },
+        {
+            "name": "OKX",
+            "url": "https://www.okx.com/web3"
+             "totalsupply":,
+            "maxsupply":,
+        },
+        {
+            "name": "Trezor",
+            "url": "https://trezor.io/"
+             "totalsupply":,
+            "maxsupply":,
+        },
+        {
+            "name": "Ledger",
+            "url": "https://www.ledger.com/"
+             "totalsupply":,
+            "maxsupply":,
+        }
+    ],
+    "oracles": [
+        {
+            "name": "Chainlink",
+            "url": "https://chain.link/"
+             "totalsupply":-,
+            "maxsupply":-,
+        },
+        {
+            "name": "Band Protocol",
+            "url": "https://bandprotocol.com/"
+             
+        },
+        {
+            "name": "Tellor",
+            "url": "https://tellor.io/"
+             
+        },
+        {
+            "name": "API3",
+            "url": "https://api3.org/"
+             
+        },
+        {
+            "name": "Razor Network",
+            "url": "https://razor.network/"
+             
+        },
+        {
+            "name": "DIA",
+            "url": "https://diadata.org/"
+            
+        },
+        {
+            "name": "Provable",
+            "url": "https://provable.xyz/"
+             
+        },
+        {
+            "name": "Chronicle",
+            "url": "https://chroniclelabs.org/"
+        }
+    ]
+}
